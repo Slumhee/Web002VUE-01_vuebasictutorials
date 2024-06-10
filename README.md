@@ -1,6 +1,6 @@
 # README.md
 
-* Код и текстовая версия учебника по фреймворку Vue, YouTube, InkkaChannel.
+* Код и текстовая версия учебника по фреймворку Vue, Bilibili, InkkaPlumChannel.
 
 这是[B站InkkaPlum频道](https://space.bilibili.com/290859233), 知乎[Inkka Plum](https://www.zhihu.com/people/instead-opt)的Vue教程对应的综合练习项目源码, 具体教程/操作方法请查看文件[后端配置说明.md](后端配置说明.md)及[前端代码说明.md](前端代码说明.md)
 
